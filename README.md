@@ -6,3 +6,5 @@ I'm a web developer at [Versys Media](https://versysmedia.com/), where we specia
 - [NovaStorePets](https://novastorepets.co.za/): A one-stop online pet shop, dedicated to providing everything your pet needs.
 - [The Nic's Travel](https://www.thenicstravel.co.za/): Specialists in luxury travel experiences, offering personalized and seamless travel adventures.
 
+
+
